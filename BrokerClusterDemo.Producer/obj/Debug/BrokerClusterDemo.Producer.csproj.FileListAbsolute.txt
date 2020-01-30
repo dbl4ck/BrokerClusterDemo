@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\BrokerClusterDemo.Producer.exe.config
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\BrokerClusterDemo.Producer.exe
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\BrokerClusterDemo.Producer.pdb
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\Apache.NMS.dll
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\obj\Debug\BrokerClusterDemo.Producer.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\obj\Debug\BrokerClusterDemo.Producer.csproj.CopyComplete
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\obj\Debug\BrokerClusterDemo.Producer.exe
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\obj\Debug\BrokerClusterDemo.Producer.pdb
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\andre\source\repos\BrokerClusterDemo\BrokerClusterDemo.Producer\bin\Debug\Apache.NMS.ActiveMQ.xml
