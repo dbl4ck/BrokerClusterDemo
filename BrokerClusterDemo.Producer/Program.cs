@@ -21,7 +21,7 @@ namespace BrokerClusterDemo.Producer
         static void Main(string[] args)
         {
             Console.Title = window_title;
-            
+
             IConnectionFactory factory = new ConnectionFactory(url);
             using (IConnection connection = factory.CreateConnection())
             using (ISession session = connection.CreateSession())
@@ -32,8 +32,9 @@ namespace BrokerClusterDemo.Producer
                 // main loop
                 while (true)
                 {
-                    var message = producer.CreateTextMessage($"hello {Guid.NewGuid().ToString().Substring(0,5)}");
-                    
+                    string text = GenerateMessage();
+                    var message = producer.CreateTextMessage(text);
+
                     producer.Send(message);
 
                     Console.WriteLine(message.Text);
@@ -43,6 +44,11 @@ namespace BrokerClusterDemo.Producer
             }
 
             
+        }
+
+        private static string GenerateMessage()
+        {
+            return $"hello {Guid.NewGuid().ToString().Substring(0, 5)}";
         }
     }
 }
